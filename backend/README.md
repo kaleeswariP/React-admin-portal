@@ -24,3 +24,6 @@ npm run build
 
 Start the app
 npm start
+
+Chat Feature DB structure
+![alt text](image.png)
