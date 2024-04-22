@@ -1,7 +1,29 @@
-# React Admin portal
+MERN Stack Project: Build and Deploy a Real Time Chat App | JWT, Socket.io
+Demo App
 
-Build a COMPLETE React Admin Dashboard App | React, Material UI, Data Grid, Light & Dark Mode
+Video Tutorial on Youtube
+Some Features:
 
-Video: https://www.youtube.com/watch?v=wYpCWwD1oz0
+🌟 Tech stack: MERN + Socket.io + TailwindCSS + Daisy UI
+🎃 Authentication && Authorization with JWT
+👾 Real-time messaging with Socket.io
+🚀 Online user status (Socket.io and React Context)
+👌 Global state management with Zustand
+🐞 Error handling both on the server and on the client
+⭐ At the end Deployment like a pro for FREE!
+⏳ And much more!
 
-For all related questions and discussions about this project, check out the discord: https://discord.gg/2FfPeEk2mX
+Setup .env file
+PORT=...
+MONGO_DB_URI=...
+JWT_SECRET=...
+NODE_ENV=...
+
+Build the app
+npm run build
+
+Start the app
+npm start
+
+Chat Feature DB structure
+![alt text](image.png)
